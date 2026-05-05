@@ -76,11 +76,6 @@ student-performance-predictor/
 * README.txt
 * report.pdf
 
----
-
-SCREENSHOTS
-
-(Add your Streamlit UI screenshot here)
 
 ---
 
